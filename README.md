@@ -6,4 +6,4 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 _____________
 
-W tym repozytorium włączona została możliwość dyskusji - celem testowania - zanim przejdziecie na włąściwe repozytoria! 
+W tym repozytorium włączona została możliwość dyskusji - celem testowania - zanim przejdziecie na właściwe przypisane Wam repozytoria! 
