@@ -1,8 +1,18 @@
 # Witaj w ZS Grójec - demo respository
 
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+Aby zarejestrować własną uczniowską licencję na pełne oprogramowanie 
+# JetBrains Products for Learning
+wejdź na adres: https://www.jetbrains.com/shop/eform/students
+- Apply with: University email address
+- Status: I'm a student
+- Country: Poland
+- Level of study: Secondary (middle or high school)
+- Is Computer Science or Engineering your major field of study?: YES
+- Email: tutaj podajesz swój służbowy email w domenie @zspgrojec.onmicrosoft.com
+- Name: prawdiłowe imię i nazwisko dla danego emaila
+- zaznacz opcję poniżej
+- a na koniec: APPLY FOR FREE PRODUCTS
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
 _____________
 
