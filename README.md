@@ -1,12 +1,12 @@
-# Witaj w ZS Grójec - koniecznie przeczytaj!
+## Witaj w ZS Grójec - koniecznie przeczytaj!
 
-#### Możliwość rejestracji produktów JetBrains dostępna jest wyłącznie dla uczniów ZS Grójec uczących się w zawodach:
+#### Możliwość rejestracji produktów dla poniższej procedury dostępna jest dla uczniów ZS Grójec uczących się w zawodach:
 - technik programista
 - technik informatyk
-- oraz dla nauczycieli uczących w tych zawodach przedmiotów zawodowych!
+- oraz dla nauczycieli uczących w tych zawodach przedmiotów zawodowych - związanych z programowaniem!
 
-# Aby zarejestrować własną uczniowską licencję na pełne oprogramowanie 
-#### JetBrains - IntelliJ Ultimate, Webstorm, Phpstorm i inne - # JetBrains Products for Learning
+## Aby zarejestrować własną uczniowską licencję na pełne oprogramowanie
+### JetBrains Products for Learning
 #### wejdź na adres: https://www.jetbrains.com/shop/eform/students
 - Apply with: University email address
 - Status: I'm a student
