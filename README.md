@@ -1,3 +1,5 @@
+
+[![ZS Grójec](/images/zslogo.png "ZS Grójec")](https://zspgrojec.eu)
 ## Witaj w ZS Grójec - koniecznie przeczytaj!
 
 #### Możliwość rejestracji produktów dla poniższej procedury dostępna jest dla uczniów ZS Grójec uczących się w zawodach:
@@ -20,8 +22,6 @@
 - **Name**: prawdiłowe imię i nazwisko dla danego emaila
 - poniżej zaznacz opcje
 - na koniec: **APPLY FOR FREE PRODUCTS**
-
-
 
 ---
 
