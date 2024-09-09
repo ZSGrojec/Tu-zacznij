@@ -7,11 +7,14 @@
 - technik informatyk
 - oraz dla nauczycieli uczących w tych zawodach przedmiotów zawodowych - związanych z programowaniem!
 
+> ### PAMIĘTAJ!
+> > #### Akcpetując regulamin korzystania z oprogramowania ponosisz pełną odpowiedzialność za jego niewłaściwe wykorzystanie, w tym podszywanie się pod kogoś.
+
 ### Aby zarejestrować własną uczniowską licencję na pełne oprogramowanie JetBrains Products for Learning
 
 ---
 
-> #### Wejdź na adres: https://www.jetbrains.com/shop/eform/students  i wykonaj procedurę:
+> #### Wejdź na adres: https://www.jetbrains.com/shop/eform/students i wykonaj procedurę:
 
 - **Apply** with: University email address
 - **Status**: I'm a student
@@ -19,8 +22,8 @@
 - **Level of study**: Secondary (middle or high school)
 - **Is Computer Science or Engineering your major field of study?**: YES
 - **Email**: tutaj podajesz swój uczniowski/służbowy email w naszej domenie "służbowej" (w razie wątpliwości - zapytaj nauczyciela)
-- **Name**: prawdiłowe imię i nazwisko dla danego emaila
-- poniżej zaznacz opcje
+- **Name**: prawidłowe imię i nazwisko dla danego adresu email
+- zaznacz poniżej wszystkie 3 pola wyboru [ ]
 - na koniec: **APPLY FOR FREE PRODUCTS**
 
 ---
